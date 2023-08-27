@@ -1,6 +1,6 @@
 # SNIPPETS 
 
-(Django Rest Framework Docs)[https://www.django-rest-framework.org/tutorial/1-serialization/]
+[Django Rest Framework Docs](https://www.django-rest-framework.org/tutorial/1-serialization/)
 
 ## Starting a project
 
