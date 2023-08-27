@@ -8,8 +8,8 @@
   "prettier.printWidth": 100,
 
   "workbench.colorCustomizations": {
-    "activityBar.border": "#ff0000a1",
-    "titleBar.inactiveForeground": "#ff0000a1",
-    "titleBar.activeForeground": "#e1ac01",
+    "activityBar.border": "#D14",
+    "titleBar.inactiveForeground": "#D14",
+    "titleBar.activeForeground": "#e1ac01"
   }
 }
