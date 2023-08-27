@@ -1,6 +1,4 @@
-# SNIPPETS 
-
-[Django Rest Framework Docs](https://www.django-rest-framework.org/tutorial/1-serialization/)
+# SNIPPETS
 
 ## Starting a project
 
@@ -21,7 +19,7 @@ vi requirements.txt
 
 pip install -r requirements.txt
 
-django-admin startproject app 
+django-admin startproject app
 
 cd app
 
@@ -30,3 +28,8 @@ django-admin startapp <app_name>
 
 cd .. && code .
 ```
+
+## Resources
+- [Django Rest Framework Docs](https://www.django-rest-framework.org/tutorial/1-serialization/)
+- [Venv](https://docs.python.org/3/library/venv.html)
+- [Pygments](https://pygments.org/)
